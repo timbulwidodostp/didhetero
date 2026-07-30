@@ -2,4 +2,4 @@
 1
 2
 3
-p bootur Bootstrap unit root tests for single series, multiple series and panels Use bootur With STATA 19
+p didhetero Heterogeneous treatment effects in staggered difference-in-differences with continuous covariates Use didhetero With STATA 19
